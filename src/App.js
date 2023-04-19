@@ -1,11 +1,6 @@
 import { Container } from "react-bootstrap";
 import "./App.css";
-import {
-  Route,
-  BrowserRouter as Router,
-  Routes,
-  useLocation,
-} from "react-router-dom";
+import { Route, Routes, useLocation } from "react-router-dom";
 import Home from "./Pages/Home";
 import Services from "./Pages/Services";
 import About from "./Pages/About";

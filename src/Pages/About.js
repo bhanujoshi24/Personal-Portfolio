@@ -8,6 +8,7 @@ const About = () => {
     damping: 30,
     restDelta: 0.001,
   });
+  console.log(scaleXProgess);
   return (
     <>
       <motion.div
