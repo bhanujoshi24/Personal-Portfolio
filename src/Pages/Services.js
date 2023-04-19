@@ -106,6 +106,7 @@ const Services = () => {
     >
       <div className="services">
         <h2>
+          <br></br>
           <font>Skills</font>
         </h2>
         <div className="wrappers">

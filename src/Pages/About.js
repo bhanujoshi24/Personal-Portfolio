@@ -16,6 +16,7 @@ const About = () => {
       ></motion.div>
       <div className="about">
         <h2 className="mb-3">
+          <br></br>
           <span className="contentele">About Us</span>
         </h2>
         <div>

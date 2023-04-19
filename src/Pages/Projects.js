@@ -44,6 +44,7 @@ const Projects = () => {
       transition={{ duration: 0.4, ease: "easeInOut" }}
     >
       <h2>
+        <br></br>
         <font>Personel Projects</font>
       </h2>
       <div className="wrapper">

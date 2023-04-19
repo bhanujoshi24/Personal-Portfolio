@@ -41,6 +41,7 @@ const Contact = () => {
       transition={{ duration: 0.2 }}
     >
       <h2>
+        <br></br>
         <font>Contact</font>
       </h2>
       <Row>
