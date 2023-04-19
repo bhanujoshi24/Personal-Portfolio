@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fb8593a4.css",
-    "main.js": "/static/js/main.65ad4f1a.js",
+    "main.js": "/static/js/main.4775736a.js",
     "static/js/787.67b99310.chunk.js": "/static/js/787.67b99310.chunk.js",
     "static/media/Avaloq.png": "/static/media/Avaloq.424699cf1c2bce8fe288.png",
     "static/media/HelathPortal.jpg": "/static/media/HelathPortal.81bac5b3d79d64cb6d07.jpg",
@@ -21,11 +21,11 @@
     "static/media/html.png": "/static/media/html.cfb2ba4a6b1c3de295bc.png",
     "index.html": "/index.html",
     "main.fb8593a4.css.map": "/static/css/main.fb8593a4.css.map",
-    "main.65ad4f1a.js.map": "/static/js/main.65ad4f1a.js.map",
+    "main.4775736a.js.map": "/static/js/main.4775736a.js.map",
     "787.67b99310.chunk.js.map": "/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb8593a4.css",
-    "static/js/main.65ad4f1a.js"
+    "static/js/main.4775736a.js"
   ]
 }
