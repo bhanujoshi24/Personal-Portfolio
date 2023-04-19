@@ -30,6 +30,20 @@ const Contact = () => {
       .catch((err) => {
         console.log("Error");
       });
+    email
+      .sendForm(
+        "service_1wbs29w",
+        "template_qawdix5",
+        e.target,
+        "cUqHmEDhGa9v_RE4m"
+      )
+      .then((res) => {
+        console.log(res);
+        alert("Thanks for Connecting");
+      })
+      .catch((err) => {
+        console.log("Error");
+      });
   };
 
   return (
