@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.fb8593a4.css",
+    "main.js": "/Personal-Portfolio/static/js/main.912addfe.js",
+    "static/js/787.67b99310.chunk.js": "/Personal-Portfolio/static/js/787.67b99310.chunk.js",
+    "static/media/Avaloq.png": "/Personal-Portfolio/static/media/Avaloq.424699cf1c2bce8fe288.png",
+    "static/media/HelathPortal.jpg": "/Personal-Portfolio/static/media/HelathPortal.81bac5b3d79d64cb6d07.jpg",
+    "static/media/ReactImg.png": "/Personal-Portfolio/static/media/ReactImg.81ed438b18e24116794d.png",
+    "static/media/FNC.jpg": "/Personal-Portfolio/static/media/FNC.6cd9bfe6eb3508c0dca2.jpg",
+    "static/media/Css.png": "/Personal-Portfolio/static/media/Css.19c8605d6b2861f5fbe0.png",
+    "static/media/DS1.png": "/Personal-Portfolio/static/media/DS1.22a7d084e53fa9addcf2.png",
+    "static/media/DigiCert.png": "/Personal-Portfolio/static/media/DigiCert.973985b5dbc2df01bf16.png",
+    "static/media/node.png": "/Personal-Portfolio/static/media/node.abfaef34ea49d0c7cd3c.png",
+    "static/media/bootstrap.png": "/Personal-Portfolio/static/media/bootstrap.d5210cdeab1bc94309c4.png",
+    "static/media/PLSQL.jpg": "/Personal-Portfolio/static/media/PLSQL.7e4b4fa0f21a7eb15db3.jpg",
+    "static/media/Algorithm.jpg": "/Personal-Portfolio/static/media/Algorithm.b4439861b66458427aeb.jpg",
+    "static/media/JavaLogo.png": "/Personal-Portfolio/static/media/JavaLogo.09f5a80c7f42f1c28839.png",
+    "static/media/python.png": "/Personal-Portfolio/static/media/python.212de8d7278260fca353.png",
+    "static/media/Js.png": "/Personal-Portfolio/static/media/Js.c82f51737aaa6831750c.png",
+    "static/media/django.png": "/Personal-Portfolio/static/media/django.82147cd026cc41735e7d.png",
+    "static/media/html.png": "/Personal-Portfolio/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.fb8593a4.css.map": "/Personal-Portfolio/static/css/main.fb8593a4.css.map",
+    "main.912addfe.js.map": "/Personal-Portfolio/static/js/main.912addfe.js.map",
+    "787.67b99310.chunk.js.map": "/Personal-Portfolio/static/js/787.67b99310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8593a4.css",
+    "static/js/main.912addfe.js"
+  ]
+}
